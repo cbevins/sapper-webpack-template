@@ -1,4 +1,5 @@
 <script>
+  import wildfire from 'images/Wildfire.jpg'
 </script>
 
 <svelte:head>
@@ -8,7 +9,7 @@
 <h1>Tinker Project</h1>
 
 <figure>
-	<img alt="SEM" src="./Wildfire.jpg">
+	<img alt="SEM" src="{wildfire}">
 	<figcaption>Systems for Environmental Management</figcaption>
 </figure>
 
