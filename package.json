@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "cbevins-tinker",
+  "description": "@cbevins sapper-webpack-template for tinkering",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
